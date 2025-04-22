@@ -1,18 +1,26 @@
+<h1 align="center">Hi there, I'm Boruto!!🙋🏽‍♂️</h1>
+
+
+<img align="right" alt="MIXED REALITY" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
+
 ### Profile views 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
-  
+![Visitor Count](https://profile-counter.glitch.me/borutoez/count.svg)
+
+
 - 👋 Hi, I’m @borutoez
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
 - 📫 How to reach me shatrughanm485@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I’m not just learning tech—I’m designing the future one innovation at a time! ⚡🚀
+
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hl__boruto)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shatrughan_07)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shatrughanm485@gmail.com) 
+
 
 # 💻 Tech Stack:
 ### Languages
