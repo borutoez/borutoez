@@ -11,7 +11,7 @@
 - 👋 Hi, I’m @borutoez
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
-- 📫 How to reach me shatrughanm485@gmail.com
+- 📫 How to reach me boruto8871@gmail.com
 - ⚡ Fun fact: I’m not just learning tech—I’m designing the future one innovation at a time! ⚡🚀
 
 
