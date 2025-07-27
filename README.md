@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Boruto!!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></h1>
+<h1 align="center">Hi there, I'm Boruto!! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></h1>
 
 
 <img align="right" alt="MIXED REALITY" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
