@@ -12,7 +12,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
 - 📫 How to reach me boruto8871@gmail.com
-- ⚡ Fun fact: I’m not just learning tech—I’m designing the future one innovation at a time! ⚡🚀
+- ⚡ Fun fact: Git Commands Sound Like Magic Spells 
 
 
 
