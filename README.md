@@ -70,6 +70,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=borutoez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=borutoez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=borutoez&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
