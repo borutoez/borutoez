@@ -5,7 +5,7 @@
 
 
 - 👋 Hi, I’m @borutoez
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning blockchain
 - 📫 How to reach me boruto8871@gmail.com
 - ⚡ Fun fact: Git Commands Sound Like Magic Spells 
 
